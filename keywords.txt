@@ -22,6 +22,7 @@ setKvalueAddress	KEYWORD2
 getKvalue	KEYWORD2
 getTdsValue	KEYWORD2
 getEcValue	KEYWORD2
+getVoltage  KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
